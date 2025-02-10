@@ -3,13 +3,13 @@
 Proyecto realizado de práctica siguiendo la guía del siguiente video en cadena:
 [Youtube](https://www.youtube.com/watch?v=-APmpguNFqI&list=PLhFBHuT4t3aCiG8KjDlgKubRMtwAQTi9I&index=3)
 
-Capitulo 1,2,3,4,5 : Completado ✅
-Actualmente en el capitulo 4 : 2 primeros Sliders ✔️
-Actualmente en el capitulo 8 : Minuto 1:32:41 ✔️
+Capitulo 1,2,3,4,5 - 8 : Completado ✅
+Actualmente en el capitulo 9 : Minuto 25:11 ✔️
 
 - HERRAMIENTAS UTILIZADAS
 - Material UI
 - React Icons
+- Swiper Js
 - React Image Magnify
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
