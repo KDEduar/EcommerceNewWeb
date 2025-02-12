@@ -19,11 +19,13 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-optical-sizing: auto;
     background: var(--background-color);
-    color: #666;
+    color: #3e3e3e;
     overflow-x: hidden;
 }
 
-p{font-size: 15px; line-height: 28px;}
+p{font-size: 15px; line-height: 28px; margin-bottom: 10px; margin-top: 10px; }
+
+h1,h2,h3,h4,h5,h6 { font-weight: 600; }
 
 ::-webkit-scrollbar {
     width: 5px !important;
@@ -34,22 +36,16 @@ p{font-size: 15px; line-height: 28px;}
     background: var(--primary-color);
 }
 
-::-webkit-scrollbar-track {
-    background: var(--color-fff);
-}
+::-webkit-scrollbar-track { background: var(--color-fff); }
 
 .container {
     width: 95%;
     margin: auto;
 }
 
-.link:hover {
-    color: var(--primary-color);
-}
+.link:hover { color: var(--primary-color); }
 
-.MuiBadge-badge {
-    background-color: var(--primary-color) !important;
-}
+.MuiBadge-badge { background-color: var(--primary-color) !important; }
 
 nav ul button {
     text-transform: capitalize !important;
@@ -61,13 +57,9 @@ nav ul button:hover {
     color: var(--primary-color) !important;
 }
 
-nav ul button:hover {
-    background: none !important;
-}
+nav ul button:hover { background: none !important; }
 
-.sliderHome {
-    overflow: inherit !important;
-}
+.sliderHome { overflow: inherit !important; }
 
 .swiper-button-prev, .swiper-button-next {
     display: flex;
@@ -98,9 +90,7 @@ nav ul button:hover {
     color: var(--color-000);
 }
 
-.homeCatSlider {
-    overflow: inherit !important;
-}
+.homeCatSlider { overflow: inherit !important; }
 
 .homeCatSlider .swiper-button-prev, .homeCatSlider .swiper-button-next {
     width: 30px;
@@ -112,17 +102,10 @@ nav ul button:hover {
     font-size: 16px !important;
 }
 
-.homeCatSlider .swiper-button-prev {
-    left: 5px;
-}
+.homeCatSlider .swiper-button-prev { left: 5px; }
+.homeCatSlider .swiper-button-next { right: 5px; }
 
-.homeCatSlider .swiper-button-next {
-    right: 5px;
-}
-
-.homeCatSlider .item {
-    border: 1px solid rgba(0, 0, 0, 0.1);
-}
+.homeCatSlider .item { border: 1px solid rgba(0, 0, 0, 0.1); }
 
 .homeCatSlider .swiper-button-prev:hover, .homeCatSlider .swiper-button-next:hover {
     background: var(--primary-color) !important;
@@ -132,17 +115,11 @@ nav ul button:hover {
     color: var(--color-fff) !important;
 }
 
-.homeCatSlider .item:hover img {
-    transform: scale(1.1);
-}
+.homeCatSlider .item:hover img { transform: scale(1.1); }
 
-.MuiTabs-indicator {
-    background-color: var(--primary-color) !important;
-}
+.MuiTabs-indicator { background-color: var(--primary-color) !important; }
 
-.MuiTab-textColorPrimary.Mui-selected {
-    color: var(--primary-color) !important;
-}
+.MuiTab-textColorPrimary.Mui-selected { color: var(--primary-color) !important; }
 
 .productsSlider .swiper-wrapper {
     padding: 15px;
@@ -254,3 +231,20 @@ footer form input::placeholder {
 
 .zoomProductSliderThumbs .swiper-button-next::after {transform: rotate(90deg);}
 .zoomProductSliderThumbs .swiper-button-prev::after {transform: rotate(90deg);}
+
+.productContent .actions button{
+    min-width: 40px !important;
+    height: 30px !important;
+    border: 1px solid rgba(0, 0, 0, 0.1) !important;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.reviewScroll::-webkit-scrollbar { width: 5px !important; }
+.reviewScroll::-webkit-scrollbar-thumb { background: #ccc !important; }

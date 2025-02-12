@@ -148,8 +148,6 @@ const Home = () => {
                     </Swiper>
                 </div>
             </section>
-
-            <Footer />
         </>
     )
 }

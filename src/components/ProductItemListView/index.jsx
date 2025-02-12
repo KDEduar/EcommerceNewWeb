@@ -42,7 +42,7 @@ const ProductItemListView = () => {
             </div>
 
             <div className="p-3 py-5 px-8 info w-[75%]">
-                <h6 className="text-[14px]">
+                <h6 className="text-[14px] !font-[400]">
                     <Link to="/" className="transition-all link">DONATELLI</Link>
                 </h6>
                 <h3 className="text-[20px] title mt-3 font-[500] mb-3 text-[#000]">

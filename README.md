@@ -1,16 +1,17 @@
-# React + Vite
-
+# React + Vite + Tailwind
+# Full Stack E-Commerce Website Using React JS, Mongo DB, Express Js, Node Js
 Proyecto realizado de práctica siguiendo la guía del siguiente video en cadena:
 [Youtube](https://www.youtube.com/watch?v=-APmpguNFqI&list=PLhFBHuT4t3aCiG8KjDlgKubRMtwAQTi9I&index=3)
 
-Capitulo 1,2,3,4,5 - 8 : Completado ✅
-Actualmente en el capitulo 9 : Minuto 25:11 ✔️
+Capitulo 1,2,3,4,5 - 9 : Completado ✅
+Actualmente en el capitulo 10 : Minuto 39:43 ✔️
 
 - HERRAMIENTAS UTILIZADAS
 - Material UI
 - React Icons
 - Swiper Js
-- React Image Magnify
+- React Inner Image Zoom
+- Flowbite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
