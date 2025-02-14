@@ -89,6 +89,15 @@
             "estado": "En curso",
             "web": "Tres Daos",
             "fuente": "https://tresdaos.com/manga/el-dios-marcial-se-convierte-en-un-repartidor/"
+        },
+        {
+            "titulo": "Devorador de monstruos Capítulo 23",
+            "url_imagen": "https://tresdaos.com/wp-content/uploads/2024/07/qq.png",
+            "cantidad_capitulos": 33,
+            "capitulos_vistos": 33,
+            "estado": "En pausa",
+            "web": "Tres Daos",
+            "fuente": "https://tresdaos.com/manga/el-dios-marcial-se-convierte-en-un-repartidor/"
         }
     ]
 }

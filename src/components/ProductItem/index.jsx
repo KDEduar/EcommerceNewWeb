@@ -5,12 +5,15 @@ import { Button, Tooltip } from "@mui/material";
 import { MdZoomOutMap } from "react-icons/md";
 import { FaRegHeart } from "react-icons/fa";
 import { IoGitCompareOutline } from "react-icons/io5";
+import { useContext } from "react";
+import { MyContext } from "../../App";
 
 const ProductItem = () => {
+    const context = useContext(MyContext);
     return (
         <div className="overflow-hidden shadow-lg rounded-md productItem border-1 border-[rgba(0,0,0,0.1)]">
             <div className="group imgWrapper w-[100%] overflow-hidden rounded-md relative">
-                <Link to="/">
+                <Link to="/product/1">
                     <div className="img h-[295px] overflow-hidden">
                         <img src="https://tiendasel.vteximg.com.br/arquivos/ids/20015720-455-455/-new_desc----marca-donatelli----modelo-3slsl001----genero-hombre----entalle-modern-fit----labrado-no----planchado-si----tipo-de-pu%C3%B1o-pu%C3%91o-simple----co.jpg?v=638294845777000000" alt="" className="w-full" />
 
@@ -24,7 +27,8 @@ const ProductItem = () => {
                 {/* Botones de acción sobre img de slider products    */}
                 <div className="actions absolute top-[-200px] right-[5px] z-50 flex items-center gap-2 flex-col w-[50px] transition-all duration-300 group-hover:top-[10px]">
                     <Tooltip title="View Product Details" placement="left-start">
-                        <Button className="!w-[35px] !h-[35px] !min-w-[35px] !rounded-full !bg-white hover:!bg-primary hover:text-white text-black group">
+                        <Button className="!w-[35px] !h-[35px] !min-w-[35px] !rounded-full !bg-white hover:!bg-primary hover:text-white text-black group"
+                        onClick={() => context.setOpenProductDetailsModal(true)}>
                             <MdZoomOutMap className="text-[20px] !text-black group-hover:text-white hover:!text-white" />
                         </Button>
                     </Tooltip>
