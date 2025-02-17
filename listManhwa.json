@@ -66,8 +66,8 @@
         {
             "titulo": "La venganza del sabueso de sangre de hierro",
             "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/743/01-xl.webp",
-            "cantidad_capitulos": 98,
-            "capitulos_vistos": 98,
+            "cantidad_capitulos": 100,
+            "capitulos_vistos": 100,
             "estado": "En curso",
             "web": "OlympusScan",
             "fuente": "https://olympuslectura.com/series/comic-sabueso13424"
@@ -75,8 +75,8 @@
         {
             "titulo": "Iniciando sesión en 10,000 años en el futuro",
             "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/18/XTPSnDxOUPhotoauto_scaleLevel3width_800-xl.webp",
-            "cantidad_capitulos": 191,
-            "capitulos_vistos": 191,
+            "cantidad_capitulos": 194,
+            "capitulos_vistos": 194,
             "estado": "En curso",
             "web": "OlympusScan",
             "fuente": "https://olympuslectura.com/series/comic-isecaikrarochino13424"
@@ -91,13 +91,31 @@
             "fuente": "https://tresdaos.com/manga/el-dios-marcial-se-convierte-en-un-repartidor/"
         },
         {
-            "titulo": "Devorador de monstruos Capítulo 23",
+            "titulo": "Devorador de monstruos",
             "url_imagen": "https://tresdaos.com/wp-content/uploads/2024/07/qq.png",
             "cantidad_capitulos": 33,
             "capitulos_vistos": 33,
             "estado": "En pausa",
             "web": "Tres Daos",
             "fuente": "https://tresdaos.com/manga/el-dios-marcial-se-convierte-en-un-repartidor/"
+        },
+        {
+            "titulo": "Voy a Aniquilar Esta Tierra",
+            "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/1480/antes%20esqueleto%20ahora%20santo%20rubio-xl.webp",
+            "cantidad_capitulos": 22,
+            "capitulos_vistos": 22,
+            "estado": "En curso",
+            "web": "OlympusScan",
+            "fuente": "https://olympuslectura.com/series/comic-voy-a-aniquilar-esta-tierra"
+        },
+        {
+            "titulo": "Mi Evolución a Partir de un Árbol Gigante",
+            "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/451/kGIGRByCY-xl.webp",
+            "cantidad_capitulos": 334,
+            "capitulos_vistos": 334,
+            "estado": "En curso",
+            "web": "OlympusScan",
+            "fuente": "https://olympuslectura.com/series/comic-arbol-mamadisimo77213124"
         }
     ]
 }

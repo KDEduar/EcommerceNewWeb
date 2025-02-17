@@ -1,18 +1,20 @@
-import './App.css'
-import Header from './components/Header'
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Home from './pages/Home'
-import Footer from './components/Footer'
-import ProductListing from './pages/ProductListing'
-import { ProductDetails } from './pages/ProductDetails'
-import React, { createContext, useState } from 'react'
+import './App.css';
+import Header from './components/Header';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Home from './pages/Home';
+import Footer from './components/Footer';
+import ProductListing from './pages/ProductListing';
+import { ProductDetails } from './pages/ProductDetails';
+import React, { createContext, useState } from 'react';
 
 import Button from '@mui/material/Button';
 import Dialog from '@mui/material/Dialog';
 import DialogContent from '@mui/material/DialogContent';
-import { ProductZoom } from './components/ProductZoom'
-import { IoCloseSharp } from 'react-icons/io5'
-import { ProductDetailsComponent } from './components/ProductDetails'
+import { ProductZoom } from './components/ProductZoom';
+import { IoCloseSharp } from 'react-icons/io5';
+import { ProductDetailsComponent } from './components/ProductDetails';
+import Login from './pages/Login';
+import Register from './pages/Register';
 
 const MyContext = createContext();
 
@@ -38,6 +40,8 @@ function App() {
             <Route path={"/"} exact={true} element={<Home />} />
             <Route path={"/productListing"} exact={true} element={<ProductListing />} />
             <Route path={"/product/:id"} exact={true} element={<ProductDetails />} />
+            <Route path={"/Login"} exact={true} element={<Login />} />
+            <Route path={"/Register"} exact={true} element={<Register />} />
           </Routes>
           <Footer />
         </MyContext.Provider>
