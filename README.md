@@ -3,8 +3,8 @@
 Proyecto realizado de práctica siguiendo la guía del siguiente video en cadena:
 [Youtube](https://www.youtube.com/watch?v=-APmpguNFqI&list=PLhFBHuT4t3aCiG8KjDlgKubRMtwAQTi9I&index=3)
 
-Capitulo 1,2,3,4,5 - 12 : Completado ✅
-Actualmente en el capitulo 13 : Minuto 14:12 ✔️
+Capitulo 1,2,3,4,5 - 13 : Completado ✅
+Actualmente en el capitulo 14 : Minuto 3:08 ✔️
 
 - HERRAMIENTAS UTILIZADAS
 - Material UI

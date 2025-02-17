@@ -5,11 +5,12 @@ import Home from './pages/Home';
 import Footer from './components/Footer';
 import ProductListing from './pages/ProductListing';
 import { ProductDetails } from './pages/ProductDetails';
-import React, { createContext, useState } from 'react';
+import { createContext, useState } from 'react';
 
 import Button from '@mui/material/Button';
 import Dialog from '@mui/material/Dialog';
 import DialogContent from '@mui/material/DialogContent';
+
 import { ProductZoom } from './components/ProductZoom';
 import { IoCloseSharp } from 'react-icons/io5';
 import { ProductDetailsComponent } from './components/ProductDetails';
@@ -20,15 +21,24 @@ const MyContext = createContext();
 
 function App() {
   const [openProductDetailsModal, setOpenProductDetailsModal] = useState(false);
-  const [maxWidth, setMaxWidth] = React.useState('lg');
-  const [fullWidth, setFullWidth] = React.useState(true);
+  const [maxWidth, setMaxWidth] = useState('lg');
+  const [fullWidth, setFullWidth] = useState(true);
+
+  const [openCartPanel, setOpenCartPanel] = useState(false);
 
   const handleCloseProductDetailsModal = () => {
     setOpenProductDetailsModal(false);
   };
 
+  const toggleCartPanel = (newOpen) => () => {
+    setOpenCartPanel(newOpen);
+  };
+
   const values = {
-    setOpenProductDetailsModal
+    setOpenProductDetailsModal,
+    setOpenCartPanel,
+    toggleCartPanel,
+    openCartPanel
   }
 
   return (
@@ -73,6 +83,8 @@ function App() {
           </div>
         </DialogContent>
       </Dialog>
+
+      
     </>
   )
 }
