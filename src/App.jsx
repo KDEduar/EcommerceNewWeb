@@ -16,12 +16,12 @@ import { IoCloseSharp } from 'react-icons/io5';
 import { ProductDetailsComponent } from './components/ProductDetails';
 import Login from './pages/Login';
 import Register from './pages/Register';
-import CartPage from './pages/Cart';
 import Verify from './pages/Verify';
-import toast, { Toaster } from 'react-hot-toast';
+import CartPage from './pages/Cart';
 import ForgotPassword from './pages/ForgotPassword';
 
-// import toast, { Toaster } from 'react-hot-toast';
+import toast, { Toaster } from 'react-hot-toast';
+import Checkout from './pages/Checkout';
 
 const MyContext = createContext();
 
@@ -72,6 +72,7 @@ function App() {
             <Route path={"/cart"} exact={true} element={<CartPage />} />
             <Route path={"/verify"} exact={true} element={<Verify />} />
             <Route path={"/forgot-password"} exact={true} element={<ForgotPassword />} />
+            <Route path={"/checkout"} exact={true} element={<Checkout />} />
           </Routes>
           <Footer />
         </MyContext.Provider>
