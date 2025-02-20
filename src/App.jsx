@@ -22,6 +22,7 @@ import ForgotPassword from './pages/ForgotPassword';
 
 import toast, { Toaster } from 'react-hot-toast';
 import Checkout from './pages/Checkout';
+import MyAccount from './pages/MyAccount';
 
 const MyContext = createContext();
 
@@ -31,6 +32,8 @@ function App() {
   const [fullWidth] = useState(true);
   // const [maxWidth, setMaxWidth] = useState('lg'); ocultar la variable setMaxWidth
   // const [fullWidth, setFullWidth] = useState(true); ocultar la variable setFullWidth
+
+  const [isLogin, setIsLogin] = useState(true);
 
   const [openCartPanel, setOpenCartPanel] = useState(false);
 
@@ -55,7 +58,8 @@ function App() {
     setOpenCartPanel,
     toggleCartPanel,
     openCartPanel,
-    openAlertBox
+    openAlertBox,
+    isLogin, setIsLogin
   };
 
   return (
@@ -69,10 +73,11 @@ function App() {
             <Route path={"/product/:id"} exact={true} element={<ProductDetails />} />
             <Route path={"/login"} exact={true} element={<Login />} />
             <Route path={"/register"} exact={true} element={<Register />} />
-            <Route path={"/cart"} exact={true} element={<CartPage />} />
             <Route path={"/verify"} exact={true} element={<Verify />} />
             <Route path={"/forgot-password"} exact={true} element={<ForgotPassword />} />
+            <Route path={"/cart"} exact={true} element={<CartPage />} />
             <Route path={"/checkout"} exact={true} element={<Checkout />} />
+            <Route path={"/my-account"} exact={true} element={<MyAccount />} />
           </Routes>
           <Footer />
         </MyContext.Provider>

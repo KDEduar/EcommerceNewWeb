@@ -5,8 +5,8 @@
 Proyecto realizado de práctica siguiendo la guía del siguiente video en cadena:
 [Youtube](<(https://www.youtube.com/watch?v=c8AC66Ng8vs&list=PLhFBHuT4t3aCiG8KjDlgKubRMtwAQTi9I&index=16)>)
 
-Capitulo 1,2,3,4,5 - 15 : Completado ✅
-Actualmente en el capitulo 16 : Minuto 23:16 ✔️
+Capitulo 1,2,3 - 17 : Completado ✅
+Actualmente en el capitulo 18 : Minuto 2:20 ✔️
 Fuente: Consolas, 'Courier New', monospace | 'Cascadia Code PL', Monospace github.com/microsoft/cascadia-code
 
 - HERRAMIENTAS UTILIZADAS
