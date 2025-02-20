@@ -1,121 +1,130 @@
 {
-    "manhwas": [
-        {
-            "titulo": "Solo Leveling",
-            "url_imagen": "https://example.com/solo_leveling.jpg",
-            "cantidad_capitulos": 179,
-            "capitulos_vistos": 179,
-            "estado": "Completo",
-            "web": "OlympusScan",
-            "fuente": "https://example.com/solo_leveling"
-        },
-        {
-            "titulo": "La 31ma pieza revierte la situación",
-            "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/937/1_-_384CUnetauto_scaleLevel3width_800-xl.webp",
-            "cantidad_capitulos": 79,
-            "capitulos_vistos": 79,
-            "estado": "En curso",
-            "web": "OlympusScan",
-            "fuente": "https://olympuslectura.com/series/comic-la-31ma-pieza-revierte-la-situacion5313424"
-        },
-        {
-            "titulo": "Shirone El Infinit0 (Mago infinito)",
-            "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/98/01-xl.webp",
-            "cantidad_capitulos": 103,
-            "capitulos_vistos": 103,
-            "estado": "En curso",
-            "web": "OlympusScan",
-            "fuente": "https://olympuslectura.com/series/comic-shirone-el22-infinit015551251524131123"
-        },
-        {
-            "titulo": "Nigromante sin limites",
-            "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/169/nigromante%20sin%20limites-xl.webp",
-            "cantidad_capitulos": 121,
-            "capitulos_vistos": 119,
-            "estado": "En curso",
-            "web": "OlympusScan",
-            "fuente": "https://olympuslectura.com/series/comic-27-01-313860"
-        },
-        {
-            "titulo": "Nivelando Con Los Dioses",
-            "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/173/WhatsApp%20Image%202024-11-12%20at%205.38.10%20PM-xl.webp",
-            "cantidad_capitulos": 128,
-            "capitulos_vistos": 179,
-            "estado": "En curso",
-            "web": "OlympusScan",
-            "fuente": "https://olympuslectura.com/series/comic-nivelando-con-los-dioses13424"
-        },
-        {
-            "titulo": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte)",
-            "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/653/Photoauto_scaleLevel3width_1000-xl.webp",
-            "cantidad_capitulos": 102,
-            "capitulos_vistos": 95,
-            "estado": "En curso",
-            "web": "OlympusScan",
-            "fuente": "https://example.com/the_gamer"
-        },
-        {
-            "titulo": "Instructor Estelar Maestro Baek",
-            "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/143/thumbnail_IMAG21_a248e1e3-1ada-447a-89ca-0d92c7a766ee-mangajanai-xl.webp",
-            "cantidad_capitulos": 108,
-            "capitulos_vistos": 62,
-            "estado": "En curso",
-            "web": "OlympusScan",
-            "fuente": "https://olympuslectura.com/series/comic-maestro-estelar-marcial"
-        },
-        {
-            "titulo": "La venganza del sabueso de sangre de hierro",
-            "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/743/01-xl.webp",
-            "cantidad_capitulos": 100,
-            "capitulos_vistos": 100,
-            "estado": "En curso",
-            "web": "OlympusScan",
-            "fuente": "https://olympuslectura.com/series/comic-sabueso13424"
-        },
-        {
-            "titulo": "Iniciando sesión en 10,000 años en el futuro",
-            "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/18/XTPSnDxOUPhotoauto_scaleLevel3width_800-xl.webp",
-            "cantidad_capitulos": 194,
-            "capitulos_vistos": 194,
-            "estado": "En curso",
-            "web": "OlympusScan",
-            "fuente": "https://olympuslectura.com/series/comic-isecaikrarochino13424"
-        },
-        {
-            "titulo": "El Dios Marcial se Convierte en un Repartidor",
-            "url_imagen": "https://tresdaos.com/wp-content/uploads/2023/11/El-Dios-Marcial-Se-Convierte-en-un-Repartidor.jpg",
-            "cantidad_capitulos": 71,
-            "capitulos_vistos": 50,
-            "estado": "En curso",
-            "web": "Tres Daos",
-            "fuente": "https://tresdaos.com/manga/el-dios-marcial-se-convierte-en-un-repartidor/"
-        },
-        {
-            "titulo": "Devorador de monstruos",
-            "url_imagen": "https://tresdaos.com/wp-content/uploads/2024/07/qq.png",
-            "cantidad_capitulos": 33,
-            "capitulos_vistos": 33,
-            "estado": "En pausa",
-            "web": "Tres Daos",
-            "fuente": "https://tresdaos.com/manga/el-dios-marcial-se-convierte-en-un-repartidor/"
-        },
-        {
-            "titulo": "Voy a Aniquilar Esta Tierra",
-            "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/1480/antes%20esqueleto%20ahora%20santo%20rubio-xl.webp",
-            "cantidad_capitulos": 22,
-            "capitulos_vistos": 22,
-            "estado": "En curso",
-            "web": "OlympusScan",
-            "fuente": "https://olympuslectura.com/series/comic-voy-a-aniquilar-esta-tierra"
-        },
-        {
-            "titulo": "Mi Evolución a Partir de un Árbol Gigante",
-            "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/451/kGIGRByCY-xl.webp",
-            "cantidad_capitulos": 334,
-            "capitulos_vistos": 334,
-            "estado": "En curso",
-            "web": "OlympusScan",
-            "fuente": "https://olympuslectura.com/series/comic-arbol-mamadisimo77213124"
-        }
-    ]
+  "manhwas": [
+    {
+      "titulo": "Solo Leveling",
+      "url_imagen": "https://example.com/solo_leveling.jpg",
+      "cantidad_capitulos": 179,
+      "capitulos_vistos": 179,
+      "estado": "Completo",
+      "web": "OlympusScan",
+      "fuente": "https://example.com/solo_leveling"
+    },
+    {
+      "titulo": "La 31ma pieza revierte la situación",
+      "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/937/1_-_384CUnetauto_scaleLevel3width_800-xl.webp",
+      "cantidad_capitulos": 79,
+      "capitulos_vistos": 79,
+      "estado": "En curso",
+      "web": "OlympusScan",
+      "fuente": "https://olympuslectura.com/series/comic-la-31ma-pieza-revierte-la-situacion5313424"
+    },
+    {
+      "titulo": "Shirone El Infinit0 (Mago infinito)",
+      "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/98/01-xl.webp",
+      "cantidad_capitulos": 106,
+      "capitulos_vistos": 106,
+      "estado": "En curso",
+      "web": "OlympusScan",
+      "fuente": "https://olympuslectura.com/series/comic-shirone-el22-infinit015551251524131123"
+    },
+    {
+      "titulo": "Nigromante sin limites",
+      "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/169/nigromante%20sin%20limites-xl.webp",
+      "cantidad_capitulos": 121,
+      "capitulos_vistos": 119,
+      "estado": "En curso",
+      "web": "OlympusScan",
+      "fuente": "https://olympuslectura.com/series/comic-27-01-313860"
+    },
+    {
+      "titulo": "Nivelando Con Los Dioses",
+      "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/173/WhatsApp%20Image%202024-11-12%20at%205.38.10%20PM-xl.webp",
+      "cantidad_capitulos": 128,
+      "capitulos_vistos": 179,
+      "estado": "En curso",
+      "web": "OlympusScan",
+      "fuente": "https://olympuslectura.com/series/comic-nivelando-con-los-dioses13424"
+    },
+    {
+      "titulo": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte)",
+      "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/653/Photoauto_scaleLevel3width_1000-xl.webp",
+      "cantidad_capitulos": 102,
+      "capitulos_vistos": 95,
+      "estado": "En curso",
+      "web": "OlympusScan",
+      "fuente": "https://example.com/the_gamer"
+    },
+    {
+      "titulo": "Instructor Estelar Maestro Baek",
+      "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/143/thumbnail_IMAG21_a248e1e3-1ada-447a-89ca-0d92c7a766ee-mangajanai-xl.webp",
+      "cantidad_capitulos": 108,
+      "capitulos_vistos": 62,
+      "estado": "En curso",
+      "web": "OlympusScan",
+      "fuente": "https://olympuslectura.com/series/comic-maestro-estelar-marcial"
+    },
+    {
+      "titulo": "La venganza del sabueso de sangre de hierro",
+      "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/743/01-xl.webp",
+      "cantidad_capitulos": 100,
+      "capitulos_vistos": 100,
+      "estado": "En curso",
+      "web": "OlympusScan",
+      "fuente": "https://olympuslectura.com/series/comic-sabueso13424"
+    },
+    {
+      "titulo": "Iniciando sesión en 10,000 años en el futuro",
+      "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/18/XTPSnDxOUPhotoauto_scaleLevel3width_800-xl.webp",
+      "cantidad_capitulos": 195,
+      "capitulos_vistos": 195,
+      "estado": "En curso",
+      "web": "OlympusScan",
+      "fuente": "https://olympuslectura.com/series/comic-isecaikrarochino13424"
+    },
+    {
+      "titulo": "El Dios Marcial se Convierte en un Repartidor",
+      "url_imagen": "https://tresdaos.com/wp-content/uploads/2023/11/El-Dios-Marcial-Se-Convierte-en-un-Repartidor.jpg",
+      "cantidad_capitulos": 71,
+      "capitulos_vistos": 50,
+      "estado": "En curso",
+      "web": "Tres Daos",
+      "fuente": "https://tresdaos.com/manga/el-dios-marcial-se-convierte-en-un-repartidor/"
+    },
+    {
+      "titulo": "Devorador de monstruos",
+      "url_imagen": "https://tresdaos.com/wp-content/uploads/2024/07/qq.png",
+      "cantidad_capitulos": 33,
+      "capitulos_vistos": 33,
+      "estado": "En pausa",
+      "web": "Tres Daos",
+      "fuente": "https://tresdaos.com/manga/el-dios-marcial-se-convierte-en-un-repartidor/"
+    },
+    {
+      "titulo": "Voy a Aniquilar Esta Tierra",
+      "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/1480/antes%20esqueleto%20ahora%20santo%20rubio-xl.webp",
+      "cantidad_capitulos": 22,
+      "capitulos_vistos": 22,
+      "estado": "En curso",
+      "web": "OlympusScan",
+      "fuente": "https://olympuslectura.com/series/comic-voy-a-aniquilar-esta-tierra"
+    },
+    {
+      "titulo": "Mi Evolución a Partir de un Árbol Gigante",
+      "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/451/kGIGRByCY-xl.webp",
+      "cantidad_capitulos": 334,
+      "capitulos_vistos": 334,
+      "estado": "En curso",
+      "web": "OlympusScan",
+      "fuente": "https://olympuslectura.com/series/comic-arbol-mamadisimo77213124"
+    },
+    {
+      "titulo": "El Devoto Caballero",
+      "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/822/asdfasd-xl.webp",
+      "cantidad_capitulos": 100,
+      "capitulos_vistos": 50,
+      "estado": "En curso",
+      "web": "OlympusScan",
+      "fuente": "https://olympuslectura.com/series/comic-1902-838802112"
+    }
+  ]
 }

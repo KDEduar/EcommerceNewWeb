@@ -3,10 +3,13 @@
 # Full Stack E-Commerce Website Using React JS, Mongo DB, Express Js, Node Js
 
 Proyecto realizado de práctica siguiendo la guía del siguiente video en cadena:
-[Youtube](https://www.youtube.com/watch?v=BmU9hsgHYJM&list=PLhFBHuT4t3aCiG8KjDlgKubRMtwAQTi9I&index=17)
+[Youtube](https://www.youtube.com/watch?v=c8AC66Ng8vs&list=PLhFBHuT4t3aCiG8KjDlgKubRMtwAQTi9I&index=16)
 
-Capitulo 1,2,3,4,5 - 14 : Completado ✅
-Actualmente en el capitulo 15 : Minuto 20:15 ✔️
+min 31:35 !important
+[text](https://www.youtube.com/watch?v=eOrkvBDYc0k&list=PLhFBHuT4t3aCiG8KjDlgKubRMtwAQTi9I&index=15)
+
+Capitulo 1,2,3,4,5 - 15 : Completado ✅
+Actualmente en el capitulo 16 : Minuto 20:15 ✔️
 Fuente: Consolas, 'Courier New', monospace | 'Cascadia Code PL', Monospace github.com/microsoft/cascadia-code
 
 - HERRAMIENTAS UTILIZADAS
@@ -15,6 +18,7 @@ Fuente: Consolas, 'Courier New', monospace | 'Cascadia Code PL', Monospace githu
 - Swiper Js
 - React Inner Image Zoom
 - Flowbite
+- React Hot Toast
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
