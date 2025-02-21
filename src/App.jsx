@@ -23,6 +23,7 @@ import ForgotPassword from './pages/ForgotPassword';
 import toast, { Toaster } from 'react-hot-toast';
 import Checkout from './pages/Checkout';
 import MyAccount from './pages/MyAccount';
+import MyList from './pages/MyList';
 
 const MyContext = createContext();
 
@@ -78,6 +79,7 @@ function App() {
             <Route path={"/cart"} exact={true} element={<CartPage />} />
             <Route path={"/checkout"} exact={true} element={<Checkout />} />
             <Route path={"/my-account"} exact={true} element={<MyAccount />} />
+            <Route path={"/my-list"} exact={true} element={<MyList />} />
           </Routes>
           <Footer />
         </MyContext.Provider>
