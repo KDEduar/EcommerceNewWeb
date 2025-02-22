@@ -3,7 +3,7 @@
 [Youtube](https://www.youtube.com/watch?v=TNfo1rUkSYE&list=PLhFBHuT4t3aCiG8KjDlgKubRMtwAQTi9I&index=20)
 
 Capitulos completos 1,2,3 ... 19
-Capitulos actual 20 - Min 28:30
+Capitulos actual 20 - Min 1:07:00
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
