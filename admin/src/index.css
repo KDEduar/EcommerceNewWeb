@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+.MuiPaper-root {
+    border-radius: 10px !important;
+}
