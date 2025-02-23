@@ -1,5 +1,12 @@
+:root {
+    --bg-primary: #3872fa;
+    --bg-primary-hover: #3067e5;
+    --color-fff: #fff;
+}
+
 body {
-    font-family: "Raleway", sans-serif;
+    font-family: "Montserrat", sans-serif;
+    background: #f1f1f1;
 }
 
 .MuiBadge-badge {
@@ -8,4 +15,24 @@ body {
 
 .ReactCollapse--collapse {
     transition: height 500ms;
+}
+
+.btn-blue {
+    background: var(--bg-primary) !important;
+    color: var(--color-fff) !important;
+    padding: 8px 20px !important;
+}
+
+.btn-blue:hover {
+    background: var(--bg-primary-hover) !important;
+}
+
+::-webkit-scrollbar {
+    width: 10px !important;
+    height: 10px !important;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ccc !important;
+    border-radius: 10px !important;
 }
