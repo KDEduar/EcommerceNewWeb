@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useContext, useState } from "react";
 import { Link } from "react-router-dom";
 import { Collapse } from "react-collapse";
 
@@ -11,6 +11,7 @@ import { TbCategory } from "react-icons/tb";
 import { BiShoppingBag } from "react-icons/bi";
 import { TbLogout2 } from "react-icons/tb";
 import { FaAngleDown } from "react-icons/fa";
+import { MyContext } from "../../App";
 
 
 const Sidebar = () => {
@@ -23,10 +24,12 @@ const Sidebar = () => {
         }
     }
 
+    const context = useContext(MyContext);
+
     return (
         <>
-            <div className="sidebar fixed top-0 left-0 bg-[#fff] w-[13%] h-full border-r border-[rgba(0,0,0,0.1)] py-2 px-4">
-                <div className="py-2 w-fit">
+            <div className={`sidebar fixed top-0 left-0 bg-[#fff] h-full border-r border-[rgba(0,0,0,0.1)] py-2 px-4 w-[${context.isSidebarOpen === true ? '13%' : '0px'}]`}>
+                <div className="w-full py-2">
                     <Link to="/">
                         <img src="/logo.svg" className="w-[190px]" /></Link>
                 </div>

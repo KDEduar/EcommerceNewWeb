@@ -21,8 +21,8 @@
     {
       "titulo": "Shirone El Infinit0 (Mago infinito)",
       "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/98/01-xl.webp",
-      "cantidad_capitulos": 106,
-      "capitulos_vistos": 106,
+      "cantidad_capitulos": 108,
+      "capitulos_vistos": 108,
       "estado": "En curso",
       "web": "OlympusScan",
       "fuente": "https://olympuslectura.com/series/comic-shirone-el22-infinit015551251524131123"
@@ -39,8 +39,8 @@
     {
       "titulo": "Nivelando Con Los Dioses",
       "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/173/WhatsApp%20Image%202024-11-12%20at%205.38.10%20PM-xl.webp",
-      "cantidad_capitulos": 128,
-      "capitulos_vistos": 179,
+      "cantidad_capitulos": 131,
+      "capitulos_vistos": 131,
       "estado": "En curso",
       "web": "OlympusScan",
       "fuente": "https://olympuslectura.com/series/comic-nivelando-con-los-dioses13424"
@@ -66,8 +66,8 @@
     {
       "titulo": "La venganza del sabueso de sangre de hierro",
       "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/743/01-xl.webp",
-      "cantidad_capitulos": 100,
-      "capitulos_vistos": 100,
+      "cantidad_capitulos": 102,
+      "capitulos_vistos": 102,
       "estado": "En curso",
       "web": "OlympusScan",
       "fuente": "https://olympuslectura.com/series/comic-sabueso13424"
@@ -102,8 +102,8 @@
     {
       "titulo": "Voy a Aniquilar Esta Tierra",
       "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/1480/antes%20esqueleto%20ahora%20santo%20rubio-xl.webp",
-      "cantidad_capitulos": 23,
-      "capitulos_vistos": 23,
+      "cantidad_capitulos": 26,
+      "capitulos_vistos": 26,
       "estado": "En curso",
       "web": "OlympusScan",
       "fuente": "https://olympuslectura.com/series/comic-voy-a-aniquilar-esta-tierra"
@@ -111,8 +111,8 @@
     {
       "titulo": "Mi Evolución a Partir de un Árbol Gigante",
       "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/451/kGIGRByCY-xl.webp",
-      "cantidad_capitulos": 334,
-      "capitulos_vistos": 334,
+      "cantidad_capitulos": 340,
+      "capitulos_vistos": 340,
       "estado": "En curso",
       "web": "OlympusScan",
       "fuente": "https://olympuslectura.com/series/comic-arbol-mamadisimo77213124"
@@ -121,7 +121,7 @@
       "titulo": "El Devoto Caballero",
       "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/822/asdfasd-xl.webp",
       "cantidad_capitulos": 100,
-      "capitulos_vistos": 72,
+      "capitulos_vistos": 88,
       "estado": "En curso",
       "web": "OlympusScan",
       "fuente": "https://olympuslectura.com/series/comic-1902-838802112"
@@ -130,10 +130,19 @@
       "titulo": "Mis subordinados son demasiado fuertes",
       "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/73/Sin-t%C3%ADtulo-1-xl.webp",
       "cantidad_capitulos": 84,
-      "capitulos_vistos": 5,
+      "capitulos_vistos": 10,
       "estado": "En curso",
       "web": "OlympusScan",
       "fuente": "https://olympuslectura.com/series/comic-mis-subordinados-son-demasiado-fuertes"
+    },
+    {
+      "titulo": "El último aventurero",
+      "url_imagen": "https://dashboard.olympuslectura.com/storage/comics/covers/1311/152%20-%20thumbnail_IMAG21_d3905287-424c-4dd7-96a0-733911654a31-xl.webp",
+      "cantidad_capitulos": 51,
+      "capitulos_vistos": 51,
+      "estado": "En curso",
+      "web": "OlympusScan",
+      "fuente": "https://olympuslectura.com/series/comic-aventurero02026"
     }
   ]
 }
